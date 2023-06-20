@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bulletin</title>
+    <link>http://machoo-l.github.io/posts/</link>
+    <description>Recent content in Posts on Bulletin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jun 2023 11:01:16 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minecraft Server</title>
+      <link>http://machoo-l.github.io/posts/minecraft-server/</link>
+      <pubDate>Mon, 19 Jun 2023 11:01:16 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/minecraft-server/</guid>
+      <description>Minecraft servers are single threaded so having more CPU cores will not improve the server&amp;rsquo;s performance. Articles recommend 1GB to 2GB of allocated RAM for 10 people on a server.
+Client Side (1.20.1) Fabric is mod loader for Minecraft.
+(1.20) OptiFine is an optimization mod for better performance. Usually you install OptiFine on its own without the Fabric mod loader but since we want voice chat we will need to supplement it with OptiFabric.</description>
+    </item>
+    
+    <item>
+      <title>Prospect First Car</title>
+      <link>http://machoo-l.github.io/posts/prospect-first-car/</link>
+      <pubDate>Mon, 19 Jun 2023 10:48:01 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/prospect-first-car/</guid>
+      <description>Reliable and good looking cars.
+Honda Accord Lexus LS 400 </description>
+    </item>
+    
+    <item>
+      <title>PTR 9CT</title>
+      <link>http://machoo-l.github.io/posts/ptr-9ct/</link>
+      <pubDate>Mon, 19 Jun 2023 10:42:33 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/ptr-9ct/</guid>
+      <description>PTR 9CT is a relatively cheap American made MP5 clone.</description>
+    </item>
+    
+    <item>
+      <title>Beretta M9</title>
+      <link>http://machoo-l.github.io/posts/beretta-m9/</link>
+      <pubDate>Mon, 19 Jun 2023 10:35:02 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/beretta-m9/</guid>
+      <description>The Beretta M9 comes in 9mm and 22LR variant. Starting off with the 22LR would be cheap for training and easy for introducing the family to guns.</description>
+    </item>
+    
+    <item>
+      <title>Fast Food and Self Reliance</title>
+      <link>http://machoo-l.github.io/posts/fast-food-and-self-reliance/</link>
+      <pubDate>Sun, 18 Jun 2023 22:14:35 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/fast-food-and-self-reliance/</guid>
+      <description>Fast food makes you reliant. The convenience of fast food distracts your attention from time spent developing important skills like cooking. Years of consuming fast food makes you reliant on external entities for living.
+The Dunkin&amp;rsquo; down your block could close down suddenly one day and you start to panic because you don&amp;rsquo;t know how you&amp;rsquo;ll get through the day without coffee in the morning. If only you invested some time into your future by buying a coffee machine and learning to make your own coffee.</description>
+    </item>
+    
+    <item>
+      <title>Love and Responsibility</title>
+      <link>http://machoo-l.github.io/posts/love-and-responsibility/</link>
+      <pubDate>Sat, 17 Jun 2023 22:56:15 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/love-and-responsibility/</guid>
+      <description>We have a duty to love one another. Surrendering oneself to another.</description>
+    </item>
+    
+    <item>
+      <title>Prayer of Surrender</title>
+      <link>http://machoo-l.github.io/posts/prayer-of-surrender/</link>
+      <pubDate>Sat, 17 Jun 2023 22:55:50 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/prayer-of-surrender/</guid>
+      <description>Lord Jesus Christ, take all my freedom, my understanding, and my will. All that I have and cherish you have given to me. I surrender it all to be guided by your will. Your love and your grace are wealth enough for me. Give me these, Lord Jesus, and I ask for nothing more. Amen.</description>
+    </item>
+    
+    <item>
+      <title>Home Server</title>
+      <link>http://machoo-l.github.io/posts/home-server/</link>
+      <pubDate>Sat, 17 Jun 2023 22:47:37 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/home-server/</guid>
+      <description>I want to host a permanent Minecraft server for me and my friends to play. Lenovo&amp;rsquo;s tiny business computers seem like a good choice to host the server. It can also be used for a Plex server to stream shows.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://machoo-l.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 30 Jan 2023 16:40:17 -0600</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/my-first-post/</guid>
+      <description>Apetite curbing is a difficult today. I probably ate over 3000 calories today.</description>
+    </item>
+    
+  </channel>
+</rss>
