@@ -3,8 +3,7 @@ title: "Fast Food and Self Reliance"
 date: 2023-06-18T22:14:35-05:00
 author: Matthew
 draft: false
-tags: 
-    - Self-reliance
+tags: [Values, Self-Reliance]
 ---
 
 Fast food makes you reliant. 

@@ -2,9 +2,9 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: Matthew
-toc: true
+toc: false
 draft: false
-tags: 
-    - tag1
+tags: []
+categories: []
 ---
 

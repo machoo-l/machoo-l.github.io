@@ -4,8 +4,7 @@ date: 2023-06-19T11:01:16-05:00
 author: Matthew
 draft: false
 toc: true
-tags: 
-    - Technology
+tags: [Technology]
 ---
 
 Minecraft servers are single threaded
