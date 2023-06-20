@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Self-Reliance on Bulletin</title>
-    <link>http://machoo-l.github.io/tags/self-reliance/</link>
-    <description>Recent content in Self-Reliance on Bulletin</description>
+    <title>Values on Bulletin</title>
+    <link>http://machoo-l.github.io/tags/values/</link>
+    <description>Recent content in Values on Bulletin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2023 10:42:33 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/self-reliance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jun 2023 08:55:58 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/values/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vulnerability</title>
+      <link>http://machoo-l.github.io/posts/9-vulnerability/</link>
+      <pubDate>Tue, 20 Jun 2023 08:55:58 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/9-vulnerability/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Self-Reliance</title>
       <link>http://machoo-l.github.io/posts/6-self-reliance/</link>
@@ -24,6 +33,15 @@
       <guid>http://machoo-l.github.io/posts/4-fast-food-and-self-reliance/</guid>
       <description>Fast food makes you reliant. The convenience of fast food distracts your attention from time spent developing important skills like cooking. Years of consuming fast food makes you reliant on external entities for living.
 The Dunkin&amp;rsquo; down your block could close down suddenly one day and you start to panic because you don&amp;rsquo;t know how you&amp;rsquo;ll get through the day without coffee in the morning. If only you invested some time into your future by buying a coffee machine and learning to make your own coffee.</description>
+    </item>
+    
+    <item>
+      <title>Love and Responsibility</title>
+      <link>http://machoo-l.github.io/posts/3-love-and-responsibility/</link>
+      <pubDate>Sat, 17 Jun 2023 22:56:15 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/3-love-and-responsibility/</guid>
+      <description>We have a duty to love one another. Surrendering oneself to another.</description>
     </item>
     
   </channel>
