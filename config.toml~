@@ -6,6 +6,3 @@ author = "Matthew"
 Paginate = 10
 # Automatically add content sections to main menu
 SectionPagesMenu = "main"
-
-[permalinks]
-	posts = "/"

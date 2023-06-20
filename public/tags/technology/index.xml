@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 19 Jun 2023 11:01:16 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minecraft Server</title>
-      <link>http://machoo-l.github.io/posts/minecraft-server/</link>
+      <link>http://machoo-l.github.io/</link>
       <pubDate>Mon, 19 Jun 2023 11:01:16 -0500</pubDate>
       
-      <guid>http://machoo-l.github.io/posts/minecraft-server/</guid>
+      <guid>http://machoo-l.github.io/</guid>
       <description>Minecraft servers are single threaded so having more CPU cores will not improve the server&amp;rsquo;s performance. Articles recommend 1GB to 2GB of allocated RAM for 10 people on a server.
 Client Side (1.20.1) Fabric is mod loader for Minecraft.
 (1.20) OptiFine is an optimization mod for better performance. Usually you install OptiFine on its own without the Fabric mod loader but since we want voice chat we will need to supplement it with OptiFabric.</description>
@@ -20,10 +20,10 @@ Client Side (1.20.1) Fabric is mod loader for Minecraft.
     
     <item>
       <title>Home Server</title>
-      <link>http://machoo-l.github.io/posts/home-server/</link>
+      <link>http://machoo-l.github.io/</link>
       <pubDate>Sat, 17 Jun 2023 22:47:37 -0500</pubDate>
       
-      <guid>http://machoo-l.github.io/posts/home-server/</guid>
+      <guid>http://machoo-l.github.io/</guid>
       <description>I want to host a permanent Minecraft server for me and my friends to play. Lenovo&amp;rsquo;s tiny business computers seem like a good choice to host the server. It can also be used for a Plex server to stream shows.</description>
     </item>
     
