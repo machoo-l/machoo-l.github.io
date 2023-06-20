@@ -8,11 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jun 2023 08:55:58 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Life</title>
-      <link>http://machoo-l.github.io/categories/life/</link>
+      <title>Ethics</title>
+      <link>http://machoo-l.github.io/categories/ethics/</link>
       <pubDate>Tue, 20 Jun 2023 08:55:58 -0500</pubDate>
       
-      <guid>http://machoo-l.github.io/categories/life/</guid>
+      <guid>http://machoo-l.github.io/categories/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theology</title>
+      <link>http://machoo-l.github.io/categories/theology/</link>
+      <pubDate>Tue, 20 Jun 2023 08:55:58 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/categories/theology/</guid>
       <description></description>
     </item>
     
