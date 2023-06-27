@@ -8,7 +8,6 @@ tags: [Ethics]
 categories: []
 ---
 
-*Stat Crux dum volvitur orbis* (The Cross is steady while the world turns).
 
 Modern culture evolves rapidly, adding and removing new terms and 
 conditions you must comply with. There is always a new fad to see and 
@@ -54,7 +53,9 @@ Spend a day without technology and you'll become the most
 productive member of society. Learn to be bored and reflect on yourself.
 Build a solid foundation for you and for those that lean on you.
 Social media and the 
-culture that surrounds it is like quicksand. Wasting time 
+culture that surrounds it is like quicksand. 
+*Stat Crux dum volvitur orbis* (The Cross is steady while the world turns).
+Wasting time 
 that could be better spent on reflection and future planning.
 
 Who are you? What do you want to make of yourself? Where do you want to be?
