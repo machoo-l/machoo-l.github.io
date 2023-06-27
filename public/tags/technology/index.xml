@@ -18,14 +18,5 @@ Client Side (1.20.1) Fabric is mod loader for Minecraft.
 (1.20.1) OptiFine is an optimization mod for better performance. Usually you install OptiFine on its own without the Fabric mod loader but since we want voice chat we will need to supplement it with OptiFabric.</description>
     </item>
     
-    <item>
-      <title>Home Server</title>
-      <link>http://machoo-l.github.io/posts/1-home-server/</link>
-      <pubDate>Sat, 17 Jun 2023 22:47:37 -0500</pubDate>
-      
-      <guid>http://machoo-l.github.io/posts/1-home-server/</guid>
-      <description>I want to host a permanent Minecraft server for me and my friends to play. Lenovo&amp;rsquo;s tiny business computers seem like a good choice to host the server. It can also be used for a Plex server to stream shows.</description>
-    </item>
-    
   </channel>
 </rss>

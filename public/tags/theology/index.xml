@@ -6,26 +6,7 @@
     <description>Recent content in Theology on Bulletin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2023 08:55:58 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/theology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vulnerability</title>
-      <link>http://machoo-l.github.io/posts/9-vulnerability/</link>
-      <pubDate>Tue, 20 Jun 2023 08:55:58 -0500</pubDate>
-      
-      <guid>http://machoo-l.github.io/posts/9-vulnerability/</guid>
-      <description>We guard our hearts because we are weak and the world is cruel. You are afraid of being naked and hide your insecurities from others because you fear the pain of judgement. It takes tremendous trust to be vulnerable with someone. You lay bare your heart and all your weakness, trusting that they do not hurt you in your vulnerablility.
-It is important to show others love when they are at their lowest.</description>
-    </item>
-    
-    <item>
-      <title>Love and Responsibility</title>
-      <link>http://machoo-l.github.io/posts/3-love-and-responsibility/</link>
-      <pubDate>Sat, 17 Jun 2023 22:56:15 -0500</pubDate>
-      
-      <guid>http://machoo-l.github.io/posts/3-love-and-responsibility/</guid>
-      <description>We have a duty to love one another. Surrendering oneself to another.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 17 Jun 2023 22:55:50 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/theology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prayer of Surrender</title>
       <link>http://machoo-l.github.io/posts/2-prayer-of-surrender/</link>
@@ -33,6 +14,15 @@ It is important to show others love when they are at their lowest.</description>
       
       <guid>http://machoo-l.github.io/posts/2-prayer-of-surrender/</guid>
       <description>Lord Jesus Christ, take all my freedom, my understanding, and my will. All that I have and cherish you have given to me. I surrender it all to be guided by your will. Your love and your grace are wealth enough for me. Give me these, Lord Jesus, and I ask for nothing more. Amen.</description>
+    </item>
+    
+    <item>
+      <title>Home Server</title>
+      <link>http://machoo-l.github.io/posts/1-home-server/</link>
+      <pubDate>Sat, 17 Jun 2023 22:47:37 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/1-home-server/</guid>
+      <description>I want to host a permanent Minecraft server for me and my friends to play. Lenovo&amp;rsquo;s tiny business computers seem like a good choice to host the server. It can also be used for a Plex server to stream shows.</description>
     </item>
     
   </channel>
