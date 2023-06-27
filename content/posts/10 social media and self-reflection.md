@@ -53,8 +53,7 @@ Spend a day without technology and you'll become the most
 productive member of society. Learn to be bored and reflect on yourself.
 Build a solid foundation for you and for those that lean on you.
 Social media and the 
-culture that surrounds it is like quicksand. 
-*Stat Crux dum volvitur orbis* (The Cross is steady while the world turns).
+culture that surrounds it is like quicksand, 
 Wasting time 
 that could be better spent on reflection and future planning.
 
@@ -67,3 +66,4 @@ my family, and love. I want to be where family and virtuous friends are.
 I will start every day to work towards my future, but I know that nothing
 will happen that was not forseen by God and directed to my greater good 
 from all eternity.
+*Stat Crux dum volvitur orbis* (The Cross is steady while the world turns).
