@@ -6,4 +6,3 @@ author = "Matthew"
 Paginate = 12
 # Automatically add content sections to main menu
 SectionPagesMenu = "main"
-disqusShortname = 'machoo'
