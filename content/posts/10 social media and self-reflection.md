@@ -1,6 +1,6 @@
 ---
 title: "Social Media, Pop Culture Brain and Self-Reflection"
-date: 2023-06-24T11:20:39-05:00
+date: 2023-06-27T04:13:44+00:00
 author: Matthew
 toc: false
 draft: false
