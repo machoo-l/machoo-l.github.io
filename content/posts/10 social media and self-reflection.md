@@ -8,7 +8,6 @@ tags: [Ethics]
 categories: []
 ---
 
-
 Modern culture evolves rapidly, adding and removing new terms and 
 conditions you must comply with. There is always a new fad to see and 
 share with your friends. It's dizzying to keep up with it all. Every day
