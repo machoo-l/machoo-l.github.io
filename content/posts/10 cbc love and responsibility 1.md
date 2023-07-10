@@ -4,7 +4,7 @@ date: 2023-07-09T21:36:17-05:00
 author: Matthew
 toc: false
 draft: false
-tags: [Ethics, Love and Responsibility, Theology, JPII]
+tags: [Ethics, Love and Responsibility, Theology]
 categories: []
 ---
 The world is composed of subjects and objects. A subject is an entity
