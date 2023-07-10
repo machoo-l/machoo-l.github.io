@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://machoo-l.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2023-07-09T21:36:17-05:00</lastmod>
   </url><url>
     <loc>http://machoo-l.github.io/tags/ethics/</loc>
@@ -25,6 +26,21 @@
   </url><url>
     <loc>http://machoo-l.github.io/tags/theology/</loc>
     <lastmod>2023-07-09T21:36:17-05:00</lastmod>
+=======
+    <lastmod>2023-06-27T04:13:44+00:00</lastmod>
+  </url><url>
+    <loc>http://machoo-l.github.io/tags/ethics/</loc>
+    <lastmod>2023-06-27T04:13:44+00:00</lastmod>
+  </url><url>
+    <loc>http://machoo-l.github.io/posts/</loc>
+    <lastmod>2023-06-27T04:13:44+00:00</lastmod>
+  </url><url>
+    <loc>http://machoo-l.github.io/posts/10-social-media-and-self-reflection/</loc>
+    <lastmod>2023-06-27T04:13:44+00:00</lastmod>
+  </url><url>
+    <loc>http://machoo-l.github.io/tags/</loc>
+    <lastmod>2023-06-27T04:13:44+00:00</lastmod>
+>>>>>>> 92ca4569846e362d15e0ec1be5e4c925280af60d
   </url><url>
     <loc>http://machoo-l.github.io/categories/</loc>
     <lastmod>2023-06-20T08:55:58-05:00</lastmod>
@@ -50,9 +66,6 @@
     <loc>http://machoo-l.github.io/posts/7-prospect-first-car/</loc>
     <lastmod>2023-06-19T10:48:01-05:00</lastmod>
   </url><url>
-    <loc>http://machoo-l.github.io/posts/6-self-reliance/</loc>
-    <lastmod>2023-06-19T10:42:33-05:00</lastmod>
-  </url><url>
     <loc>http://machoo-l.github.io/tags/firearm/</loc>
     <lastmod>2023-06-19T10:35:02-05:00</lastmod>
   </url><url>
@@ -66,6 +79,9 @@
     <lastmod>2023-06-17T22:56:15-05:00</lastmod>
   </url><url>
     <loc>http://machoo-l.github.io/posts/2-prayer-of-surrender/</loc>
+    <lastmod>2023-06-17T22:55:50-05:00</lastmod>
+  </url><url>
+    <loc>http://machoo-l.github.io/tags/theology/</loc>
     <lastmod>2023-06-17T22:55:50-05:00</lastmod>
   </url><url>
     <loc>http://machoo-l.github.io/posts/1-home-server/</loc>

@@ -6,6 +6,7 @@
     <description>Recent content in Theology on Bulletin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 09 Jul 2023 21:36:17 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/theology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Person as the Subject and Object of Action</title>
@@ -36,6 +37,9 @@ It is important to show others love when they are at their lowest.</description>
       <description>We have a duty to love one another. Surrendering oneself to another.</description>
     </item>
     
+=======
+    <lastBuildDate>Sat, 17 Jun 2023 22:55:50 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/theology/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 92ca4569846e362d15e0ec1be5e4c925280af60d
     <item>
       <title>Prayer of Surrender</title>
       <link>http://machoo-l.github.io/posts/2-prayer-of-surrender/</link>
@@ -43,6 +47,15 @@ It is important to show others love when they are at their lowest.</description>
       
       <guid>http://machoo-l.github.io/posts/2-prayer-of-surrender/</guid>
       <description>Lord Jesus Christ, take all my freedom, my understanding, and my will. All that I have and cherish you have given to me. I surrender it all to be guided by your will. Your love and your grace are wealth enough for me. Give me these, Lord Jesus, and I ask for nothing more. Amen.</description>
+    </item>
+    
+    <item>
+      <title>Home Server</title>
+      <link>http://machoo-l.github.io/posts/1-home-server/</link>
+      <pubDate>Sat, 17 Jun 2023 22:47:37 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/1-home-server/</guid>
+      <description>I want to host a permanent Minecraft server for me and my friends to play. Lenovo&amp;rsquo;s tiny business computers seem like a good choice to host the server. It can also be used for a Plex server to stream shows.</description>
     </item>
     
   </channel>
