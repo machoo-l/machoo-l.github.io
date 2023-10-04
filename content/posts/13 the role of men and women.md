@@ -1,5 +1,5 @@
 ---
-title: "Together Man and Woman/That Which Is Between Man and Woman"
+title: "Together Man and Woman"
 date: 2023-10-04T05:10:11.763Z
 author: Matthew
 toc: false
