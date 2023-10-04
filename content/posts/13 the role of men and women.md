@@ -24,11 +24,11 @@ come together over a common good to create a living community. In particular,
 when a man and woman come together in proper love they mutually understand and
 harmoniously realize a jointly chosen good. This joyful union comes about when
 each member properly orders the dignity of the person over the sexual urge
-towards the body
+towards the body.
 
 Naturally, when a man grows in virtue and takes on responsibilities there is the
-desire to give up a part of himself to the greater good. With respect to
-community, men have a duty to protect women, and with respect to his family he
+desire to give up a part of himself to the greater good. With respect to his
+community, a man has a duty to protect women, and with respect to his family he
 must provide. The mind and body of man are well suited to toil and labor, but he
 needs a purpose or a good to aim to. He can devote himself to his community,
 friends, or family. However, ultimately, a woman will draw out the most in him.
