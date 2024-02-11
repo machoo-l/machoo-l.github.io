@@ -3,7 +3,7 @@ title: "Prospect First Gun"
 date: 2023-06-19T10:35:02-05:00
 author: Matthew
 toc: true
-draft: false
+draft: true
 tags: [Firearm]
 ---
 ## Beretta M9
