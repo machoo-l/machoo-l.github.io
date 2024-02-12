@@ -1,7 +1,7 @@
 ---
 title: "Prayer of Surrender"
 date: 2023-06-17T22:55:50-05:00
-author: Matthew
+author: Matthew Le
 draft: false
 tags: [Theology]
 ---

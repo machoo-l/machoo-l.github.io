@@ -1,7 +1,7 @@
 ---
 title: "The Person as the Subject and Object of Action"
 date: 2023-07-09T21:36:17-05:00
-author: Matthew
+author: Matthew Le
 toc: false
 draft: false
 tags: [Ethics, Love and Responsibility, Theology]

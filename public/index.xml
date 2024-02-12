@@ -69,17 +69,6 @@ Honda Accord Lexus LS 400 </description>
     </item>
     
     <item>
-      <title>Prospect First Gun</title>
-      <link>http://machoo-l.github.io/posts/5-prospect-first-gun/</link>
-      <pubDate>Mon, 19 Jun 2023 10:35:02 -0500</pubDate>
-      
-      <guid>http://machoo-l.github.io/posts/5-prospect-first-gun/</guid>
-      <description>Beretta M9 The Beretta M9 comes in 9mm and 22LR variant. Starting off with the 22LR would be cheap for training and easy for introducing the family to guns.
-Girsan Regard Cheap Beretta M9 clone.
-PTR 9CT Relatively cheap American MP5 clone.</description>
-    </item>
-    
-    <item>
       <title>Fast Food and Self-Reliance</title>
       <link>http://machoo-l.github.io/posts/4-fast-food-and-self-reliance/</link>
       <pubDate>Sun, 18 Jun 2023 22:14:35 -0500</pubDate>
@@ -131,8 +120,27 @@ The Dunkin&amp;rsquo; down your block could close down suddenly one day and you 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://machoo-l.github.io/about/</guid>
-      <description>I am Matthew Le. I appreciate you for visiting my webpage and I hope you learn something new. The purpose of this website is to improve my writing and share my ideas.
-I have plans to add commenting and display other projects that I will work on.</description>
+      <description>Hi I&amp;rsquo;m Matthew Le. I appreciate you for visiting my webpage and I hope you learn something new.
+I created this website to learn web development and to improve my eloquence in writing. As our lives grow ever consumed by the internet we neglect the cultivation of essential personal skills. I desire to spread goodness in the world through connection and self-giving.
+I have plans to add commenting and display other projects that I work on.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://machoo-l.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://machoo-l.github.io/contact/</guid>
+      <description>Text!</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://machoo-l.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://machoo-l.github.io/resume/</guid>
+      <description>Text!</description>
     </item>
     
   </channel>

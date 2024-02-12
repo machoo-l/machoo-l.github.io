@@ -1,7 +1,7 @@
 ---
 title: "Fast Food and Self-Reliance"
 date: 2023-06-18T22:14:35-05:00
-author: Matthew
+author: Matthew Le
 draft: false
 tags: [Ethics]
 ---

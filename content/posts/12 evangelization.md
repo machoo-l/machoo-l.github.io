@@ -1,7 +1,7 @@
 ---
 title: "Struggle Is Meaning"
 date: 2023-08-10T17:13:22-05:00
-author: Matthew
+author: Matthew Le
 toc: true
 draft: true
 tags: []

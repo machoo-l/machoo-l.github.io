@@ -1,7 +1,7 @@
 ---
 title: "Prospect First Gun"
 date: 2023-06-19T10:35:02-05:00
-author: Matthew
+author: Matthew Le
 toc: true
 draft: true
 tags: [Firearm]

@@ -1,7 +1,7 @@
 ---
 title: "Minecraft Server"
 date: 2023-06-19T11:01:16-05:00
-author: Matthew
+author: Matthew Le
 draft: false
 toc: true
 tags: [Technology]
