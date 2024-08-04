@@ -4,7 +4,7 @@ date: 2023-06-27T04:13:44+00:00
 author: Matthew Le
 toc: false
 draft: false
-tags: [Ethics]
+tags: [Ethics, Technology]
 categories: []
 ---
 
