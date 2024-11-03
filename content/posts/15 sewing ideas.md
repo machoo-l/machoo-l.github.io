@@ -7,7 +7,8 @@ draft: false
 tags: [Fashion]
 categories: []
 ---
-{{< figure src="static\polo ralph lauren denim v neck vest.jpg" title="Polo Ralph Lauren Denim Vest" >}}
+![Polo Ralph Lauren Denim Vest Fall 2023 Look Book](/images/polo%20ralph%20lauren%20denim%20v%20neck%20vest.jpg)
+
 ## Polo Ralph Lauren Denim Vest
 
 ### Fit
