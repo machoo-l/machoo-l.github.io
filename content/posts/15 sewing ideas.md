@@ -7,7 +7,7 @@ draft: false
 tags: [Fashion]
 categories: []
 ---
-![Polo Ralph Lauren Denim Vest Fall 2023 Look Book](/images/polo%20ralph%20lauren%20denim%20v%20neck%20vest.jpg)
+![Polo Ralph Lauren Denim Vest Fall 2023 Look Book](/polo%20ralph%20lauren%20denim%20v%20neck%20vest.jpg)
 
 ## Polo Ralph Lauren Denim Vest
 
