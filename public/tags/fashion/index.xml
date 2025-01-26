@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Fashion on Bulletin</title>
-    <link>http://machoo-l.github.io/tags/fashion/</link>
-    <description>Recent content in Fashion on Bulletin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Fashion on Matthew Blog</title>
+    <link>http://localhost:1313/tags/fashion/</link>
+    <description>Recent content in Fashion on Matthew Blog</description>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2024 12:55:21 -0600</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2024 12:55:21 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Denim Sewing Ideas</title>
-      <link>http://machoo-l.github.io/posts/15-sewing-ideas/</link>
+      <title>Denim Only</title>
+      <link>http://localhost:1313/posts/15-sewing-ideas/</link>
       <pubDate>Sun, 03 Nov 2024 12:55:21 -0600</pubDate>
-      
-      <guid>http://machoo-l.github.io/posts/15-sewing-ideas/</guid>
-      <description>
-Polo Ralph Lauren Denim Vest The vest is from Polo&amp;rsquo;s Fall 2023 ready-to-wear look book. Well fitted
-Fit Louis Vuitton Speedy Bandouliere 25 Denim Jacquard Navy Blue Shape </description>
+      <guid>http://localhost:1313/posts/15-sewing-ideas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.pinterest.com/pin/792422496966728117/&#34;&gt;&lt;img alt=&#34;Polo Ralph Lauren Denim Vest Fall 2023 Look\nBook&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/polo_ralph_lauren_denim_v_neck_vest.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;polo-ralph-lauren-denim-vest&#34;&gt;Polo Ralph Lauren Denim Vest&lt;/h2&gt;
+&lt;p&gt;The vest is from Polo&amp;rsquo;s Fall 2023 ready-to-wear look book. Well fitted
+vests accentuate the slimness of the waist and creates the appearance
+of broader shoulders. The dark wash of the denim offers a polished
+and semi-formal look. The wide fitting pants contrasts the fitted vest,
+creating a proportional small top-big bottom silhoutte.&lt;/p&gt;
+&lt;p&gt;Constructing the garment requires darts at the waist to reduce fabric
+in the area and tailor the fit.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
