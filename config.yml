@@ -1,8 +1,29 @@
 baseURL: "http://machoo-l.github.io"
 languageCode: 'en-us'
-title: Matthew Blog
+title: Matthew Le
 theme: PaperMod
 author: Matthew Le
 Paginate: 100
 # Automatically add content sections to main menu
 SectionPagesMenu: main
+
+# params:
+  # profileMode:
+    # enabled: true
+    # title: "Matthew Le" # optional default will be site title
+    # subtitle: "This is subtitle"
+    # imageUrl: "https://i.imgur.com/EfViSDL.gif" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 400 # custom size
+    # imageHeight: 400 # custom size
+#     buttons:
+#       - name: Archive
+#         url: "/archive"
+#       - name: Github
+#         url: "https://github.com/"
+
+#   socialIcons: # optional
+#     - name: "<platform>"
+#       url: "<link>"
+#     - name: "<platform 2>"
+#       url: "<link2>"

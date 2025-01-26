@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Technology on Matthew Blog</title>
-    <link>http://localhost:1313/tags/technology/</link>
-    <description>Recent content in Technology on Matthew Blog</description>
+    <title>Technology on Matthew Le</title>
+    <link>http://localhost:55862/tags/technology/</link>
+    <description>Recent content in Technology on Matthew Le</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Aug 2024 23:49:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55862/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Truth of Masculinity; Being Too Afraid To Do Anything Because the Internet and College Makes You Dumb as Hell</title>
-      <link>http://localhost:1313/posts/14-truth-of-masculinity-and-being-afraid/</link>
+      <link>http://localhost:55862/posts/14-truth-of-masculinity-and-being-afraid/</link>
       <pubDate>Sat, 03 Aug 2024 23:49:07 -0500</pubDate>
-      <guid>http://localhost:1313/posts/14-truth-of-masculinity-and-being-afraid/</guid>
+      <guid>http://localhost:55862/posts/14-truth-of-masculinity-and-being-afraid/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Effeminacy&lt;/strong&gt; is
 preferring your pleasure over doing what is difficult. It is effeminate for
 men to take pleasure in lacking responsibility. Women have no respect for
@@ -27,9 +27,9 @@ aside your own pleasure to do what is right is the heart of
     </item>
     <item>
       <title>Social Media, Pop Culture Brain and Self-Reflection</title>
-      <link>http://localhost:1313/posts/10-social-media-and-self-reflection/</link>
+      <link>http://localhost:55862/posts/10-social-media-and-self-reflection/</link>
       <pubDate>Tue, 27 Jun 2023 04:13:44 +0000</pubDate>
-      <guid>http://localhost:1313/posts/10-social-media-and-self-reflection/</guid>
+      <guid>http://localhost:55862/posts/10-social-media-and-self-reflection/</guid>
       <description>&lt;p&gt;Modern culture evolves rapidly, adding and removing new terms and
 conditions you must comply with. There is always a new fad to see and
 share with your friends. It&amp;rsquo;s dizzying to keep up with it all. Every day
@@ -46,9 +46,9 @@ data and feeding you precise ads that keep you consuming.&lt;/p&gt;</description
     </item>
     <item>
       <title>Minecraft Server</title>
-      <link>http://localhost:1313/posts/8-minecraft-server/</link>
+      <link>http://localhost:55862/posts/8-minecraft-server/</link>
       <pubDate>Mon, 19 Jun 2023 11:01:16 -0500</pubDate>
-      <guid>http://localhost:1313/posts/8-minecraft-server/</guid>
+      <guid>http://localhost:55862/posts/8-minecraft-server/</guid>
       <description>&lt;p&gt;Minecraft servers are single threaded
 so having more CPU cores will not improve the server&amp;rsquo;s performance.
 Articles recommend 1GB to 2GB of allocated RAM for 10
@@ -61,9 +61,9 @@ but since we want voice chat we will need to supplement it with OptiFabric.&lt;/
     </item>
     <item>
       <title>Home Server</title>
-      <link>http://localhost:1313/posts/1-home-server/</link>
+      <link>http://localhost:55862/posts/1-home-server/</link>
       <pubDate>Sat, 17 Jun 2023 22:47:37 -0500</pubDate>
-      <guid>http://localhost:1313/posts/1-home-server/</guid>
+      <guid>http://localhost:55862/posts/1-home-server/</guid>
       <description>&lt;p&gt;I want to host a permanent Minecraft server for me and my friends to play.
 Lenovo&amp;rsquo;s tiny business computers seem like a good choice to host the server.
 It can also be used for a Plex server to stream shows.&lt;/p&gt;</description>

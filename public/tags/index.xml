@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Matthew Blog</title>
+    <title>Tags on Matthew Le</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Matthew Blog</description>
+    <description>Recent content in Tags on Matthew Le</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 12:55:21 -0600</lastBuildDate>
