@@ -1,7 +1,7 @@
 ---
 title: "The Truth of Masculinity; Being Too Afraid To Do Anything Because the Internet and College Makes You Dumb as Hell"
 date: 2024-08-03T23:49:07-05:00
-author: Matthew
+author: Matthew Le
 toc: false
 draft: false
 tags: [Ethics, Technology]

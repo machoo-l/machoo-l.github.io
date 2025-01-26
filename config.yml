@@ -3,6 +3,6 @@ languageCode: 'en-us'
 title: Matthew Blog
 theme: PaperMod
 author: Matthew Le
-Paginate: 12
+Paginate: 100
 # Automatically add content sections to main menu
 SectionPagesMenu: main

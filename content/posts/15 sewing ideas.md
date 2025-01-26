@@ -1,7 +1,7 @@
 ---
 title: "Denim Only"
 date: 2024-11-03T12:55:21-06:00
-author: Matthew
+author: Matthew Le
 toc: true
 draft: false
 tags: [Fashion]

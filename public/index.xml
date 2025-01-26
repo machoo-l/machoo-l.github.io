@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>  on Matthew Blog</title>
+    <title>Index on Matthew Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in   on Matthew Blog</description>
+    <description>Recent content in Index on Matthew Blog</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 12:55:21 -0600</lastBuildDate>
@@ -192,14 +192,8 @@ It can also be used for a Plex server to stream shows.&lt;/p&gt;</description>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi I&amp;rsquo;m Matthew Le. I appreciate &lt;em&gt;you&lt;/em&gt; for visiting my
-webpage and I hope you learn something new.&lt;/p&gt;
-&lt;p&gt;I created this website to learn web development and to improve my eloquence in
-writing. As our lives grow ever consumed by the internet we neglect the cultivation
-of essential personal skills. I desire to spread goodness in the world through
-connection and self-giving.&lt;/p&gt;
-&lt;p&gt;I have plans to add commenting and display other projects that I work on. Thank
-you for your interest in my work.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi I&amp;rsquo;m Matthew Le. Thanks for visiting my little corner of the
+internet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
